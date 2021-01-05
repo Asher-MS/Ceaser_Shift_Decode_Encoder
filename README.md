@@ -10,4 +10,4 @@ ScreenShots
 
 <h1>Instalation</h1>
  ->Clone The repository
- ->GO to Build Folder Execute the precompiled binary GUI.exe
+ ->Make it into an executable using auto-py-to-exe
