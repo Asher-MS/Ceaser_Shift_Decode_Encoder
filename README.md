@@ -6,3 +6,8 @@ ScreenShots
 ![1](Capture.JPG)
 
 ![2](Capture2.JPG)
+
+
+<h1>Instalation</h1>
+ ->Clone The repository
+ ->GO to Build Folder Execute the precompiled binary GUI.exe
