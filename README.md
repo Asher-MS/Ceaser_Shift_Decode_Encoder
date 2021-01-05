@@ -3,6 +3,6 @@ A Simple GUI Application for Decoding and Encoding Ceaser Ciphers
 
 ScreenShots
 
-![1]Captuer.jpg
+![1](Capture.jpg)
 
-![2]Capture2.jpg
+![2](Capture2.jpg)
